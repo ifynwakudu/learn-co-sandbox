@@ -1,0 +1,3 @@
+puppies=["terrier", "dobberman"]
+puppies[1]
+speed_dial = ["ada", "kay", "matz"]
